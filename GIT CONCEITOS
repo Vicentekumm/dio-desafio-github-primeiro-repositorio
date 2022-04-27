@@ -1,0 +1,14 @@
+SHA1 - Algoritmo hash, a encriptacao gera conjunto de caracter com 40 digitos.
+BLOBS - bloco basico de composicao.
+TREE - Armazena blobs, mostra nome, blobs e toda estrutura.
+COMMIT - Junta todos, possui SHA1.
+CHAVE SSH - Conexao segura e criptada, gera a chave, pega nome do conteudo e leva ao github.
+TOKEN - outra ferramenta de segurança do github
+GIT INIT
+GIT STATUS
+GIT ADD
+GIT REMOTE
+GIT PUSH
+GIT PULL
+GIT COMMIT
+GIT COMMIT ORIGIN ....
